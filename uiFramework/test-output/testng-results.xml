@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href='F:\Selenium Works\workspace\uiFramework\src\main\resources\screenShots\firstscreen_11_09_2019_11_55_12.png'><img src='F:\Selenium Works\workspace\uiFramework\src\main\resources\screenShots\firstscreen_11_09_2019_11_55_12.png'height='100' width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="87879" started-at="2019-09-11T18:23:54Z" finished-at="2019-09-11T18:25:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="87879" started-at="2019-09-11T18:23:54Z" finished-at="2019-09-11T18:25:22Z">
+      <class name="com.uiFramework.vmd.proj.testScript.TestScreenShot">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.uiFramework.vmd.proj.testScript.TestScreenShot@2b2948e2]" name="beforeSuite" is-config="true" duration-ms="566" started-at="2019-09-11T23:53:54Z" finished-at="2019-09-11T23:53:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.uiFramework.vmd.proj.testScript.TestScreenShot@2b2948e2]" name="beforeTest" is-config="true" duration-ms="57639" started-at="2019-09-11T23:53:54Z" finished-at="2019-09-11T23:54:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.uiFramework.vmd.proj.testScript.TestScreenShot@2b2948e2]" name="beforeClass" is-config="true" duration-ms="9" started-at="2019-09-11T23:54:52Z" finished-at="2019-09-11T23:54:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.uiFramework.vmd.proj.testScript.TestScreenShot@2b2948e2]" name="beforeMethod" is-config="true" duration-ms="28" started-at="2019-09-11T23:54:52Z" finished-at="2019-09-11T23:54:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.uiFramework.vmd.proj.testScript.TestScreenShot.testScreen()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testScreen()[pri:0, instance:com.uiFramework.vmd.proj.testScript.TestScreenShot@2b2948e2]" name="testScreen" duration-ms="24121" started-at="2019-09-11T23:54:52Z" finished-at="2019-09-11T23:55:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='F:\Selenium Works\workspace\uiFramework\src\main\resources\screenShots\firstscreen_11_09_2019_11_55_12.png'><img src='F:\Selenium Works\workspace\uiFramework\src\main\resources\screenShots\firstscreen_11_09_2019_11_55_12.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testScreen -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.uiFramework.vmd.proj.testScript.TestScreenShot@2b2948e2]" name="afterMethod" is-config="true" duration-ms="5940" started-at="2019-09-11T23:55:16Z" finished-at="2019-09-11T23:55:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testScreen status=SUCCESS method=TestScreenShot.testScreen()[pri:0, instance:com.uiFramework.vmd.proj.testScript.TestScreenShot@2b2948e2] output=<a href='F:\Selenium Works\workspace\uiFramework\src\main\resources\screenShots\firstscreen_11_09_2019_11_55_12.png'><img src='F:\Selenium Works\workspace\uiFramework\src\main\resources\screenShots\firstscreen_11_09_2019_11_55_12.png'height='100' width='100'/></a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.uiFramework.vmd.proj.testScript.TestScreenShot -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

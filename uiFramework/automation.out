@@ -1,0 +1,4 @@
+2019-09-11 23:09:705 INFO  TestBase:115 - Initialize Web driver: 116669570
+2019-09-11 23:09:738 INFO  WaitHelper:38 - Implicit Wait has been set to: 120
+2019-09-11 23:09:807 INFO  WaitHelper:141 - waiting for page to load for : SECONDS seconds
+2019-09-11 23:09:814 INFO  WaitHelper:143 - page is loaded
